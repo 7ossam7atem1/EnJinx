@@ -6,10 +6,10 @@ A simple search engine implemented in Java for information retrieval using a dat
 
 ## Features
 
-- **Keyword Search**: Allows users to search for documents using specific keywords.
+- **Keyword Search**: Allows users to search for documents using specific keywords and retrieve the relevant documents according to the user query.
 - **Relevance Ranking**: Retrieves and ranks documents based on their relevance to the search query.
 - **Dataset Integration**: Utilizes a dataset from Kaggle for information retrieval.
-- **Simple Interface**: Easy-to-use command-line interface for performing searches.
+- **Simple Interface**: Easy-to-use Graphical user interface (GUI) for performing searches.
 
 ## Technologies Used
 
